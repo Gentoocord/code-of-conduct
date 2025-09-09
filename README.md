@@ -21,7 +21,7 @@
 4. [Section 3 - Moderation Policies](#section-3---moderation-policies)
    - [3.1 Moderator Discretion](#31---moderator-discretion)
    - [3.2 Moderation Transparency](#32---moderation-transparency)
-   - [3.3 Moderator Unsuitability](#33---moderator-unsuitability)
+   - [3.3 Administrator Unsuitability](#33---administrator-unsuitabilityy)
    - [3.4 Moderator Privilege](#34---moderator-privilege)
 5. [Licensing](#licensing)
 
@@ -138,7 +138,7 @@ All streamed content must comply with our SFW policies and piracy guidelines. St
 
 ## Section 3 - Moderation Policies <a name="section-3---moderation-policies"></a>
 
-By joining Gentooverse, you acknowledge our moderation practices.
+By joining Gentooverse and contributing as a moderator/administrator, you acknowledge our moderation practices. These rules also apply for 
 
 ### 3.1 - Moderator Discretion <a name="31---moderator-discretion"></a>
 
@@ -152,15 +152,15 @@ All moderation logs are publicly viewable to maintain transparency. If you have 
 
 ---
 
-### 3.3 - Moderator Unsuitability <a name="33---moderator-unsuitability"></a>
+### 3.3 - Administrator Unsuitability <a name="33---administrator-unsuitability"></a>
 
-If the community deems a moderator unfit, a public vote will be held. A 30-day transition period is provided during which the outgoing administrator remains until a successor is elected. For this process to proceed, at least **2/3 of the ENTIRE community** must agree via poll.
+If the community deems an administrator unfit, a public vote will be held. A 30-day transition period is provided during which the outgoing moderator remains until a successor is elected. For this process to proceed, at least **2/3 of the ENTIRE community** must agree via poll.
 
 ---
 
 ### 3.4 - Moderator Privilege <a name="34---moderator-privilege"></a>
 
-Moderators may remove any member deemed unfit for the community, even if they are following the Code of Conduct. This power is not absolute and can be challenged. However, sensitive matters may require administrators to withhold specific details.
+Moderators may remove any member deemed unfit for the community, inside or outside the community, even if they are following the Code of Conduct. This power is not absolute and can be challenged. However, sensitive matters may require moderators to withhold specific details.
 
 ---
 
