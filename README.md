@@ -152,7 +152,7 @@ All moderation logs are publicly viewable to maintain transparency. If you have 
 
 ---
 
-### 3.3 - Moderator Unsuitability <a name="33---noderator-unsuitability"></a>
+### 3.3 - Moderator Unsuitability <a name="33---moderator-unsuitability"></a>
 
 If the community deems a moderator unfit, a public vote will be held. A 30-day transition period is provided during which the outgoing administrator remains until a successor is elected. For this process to proceed, at least **2/3 of the ENTIRE community** must agree via poll.
 
